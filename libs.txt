@@ -1,0 +1,5 @@
+requests
+validators
+bs4
+flask_cors
+flask
